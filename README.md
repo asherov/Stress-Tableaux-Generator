@@ -14,4 +14,3 @@ References:
 Asherov, Daniel. 2023. "Metrical Grids and Active Edges." Doctoral dissertation, MIT.
 Gordon, Matthew. 2002. “A Factorial Typology of Quantity-Insensitive Stress.” Natural Language & Linguistic Theory 20 (3): 491–552.
 Heinz, Jeffrey, Greg Kobele, and Jason Riggle. 2005. “Exploring the Typology of Quantity-Insensitive Stress Systems without Gradient Constraints.” Presented in the 79th Annual Meeting of the Linguistic Society of America, Oakland.
-

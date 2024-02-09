@@ -1,6 +1,6 @@
 
-# This code generates metrical stress tableaux in a format compatible with OTSoft, a software that offers various ways to investigate theories within the OT framework
-# The code does the following:
+# This program generates metrical stress tableaux in a format compatible with OTSoft, a software that offers various ways to investigate theories within the OT framework
+# The program does the following:
 # 1. Generates a set of inputs, with word lengths specified by user
 # 2. Generates a set of candidates for each input, with stress levels selected by user
 # 3. Computes constraint violations for each input-candidate pair, with a constraint set selected by the user
